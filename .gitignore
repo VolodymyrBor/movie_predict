@@ -1,0 +1,9 @@
+# ENV
+venv
+
+# IDE
+.idea
+.fleet
+
+# Configs
+configs/config.yaml
